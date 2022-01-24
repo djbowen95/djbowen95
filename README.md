@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dan / @djbowen95.
+- 👀 I’m interested in web and software development.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 💞️ I’m looking to collaborate on Javascript projects.
+- 📫 How to reach me: djbowen95@gmail.com.
