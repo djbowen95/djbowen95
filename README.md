@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan / @djbowen95.
-- 👀 I’m interested in web and software development.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
-- 💞️ I’m looking to collaborate on Javascript projects.
+- 👀 I’m actively looking for a role in Full-Stack Web Development.
+- 🌱 I am experienced in HTML, CSS, Javascript, React, Express and more.
+- 💞️ I’m looking to collaborate on Full-Stack React and Node.js projects.
 - 📫 How to reach me: djbowen95@gmail.com.
