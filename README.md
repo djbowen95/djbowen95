@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan / @djbowen95.
 - 👀 I’m actively looking for a role in Full-Stack Web Development.
-- 🌱 I am experienced in HTML, CSS, Javascript, React, Express and more.
+- 🌱 I am experienced in HTML, CSS, Javascript, React, Node.js, Express and more.
 - 💞️ I’m looking to collaborate on full-stack projects using React and JS.
 - 📫 How to reach me: djbowen95@gmail.com.
