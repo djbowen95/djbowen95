@@ -16,7 +16,7 @@
 - 👋 Hi, I’m Dan / @djbowen95.
 - 👀 I am actively looking for a new role in Full-Stack Development.
 - 🌱 I am experienced in Javascript, React, Node.js, Express and more.
-- 💞️ I’m looking to collaborate on/contribute to full-stack projects built with React, JS and CSS.
+- 💞️ I’m looking to collaborate on/contribute to open source projects in JavaScript/React, or their Docs.
 - 🏙️ I live in Birmingham but happy to relocate within the United Kingdom.
 - 📌 Please take a look at my pinned projects for examples of my work.
 
