@@ -39,7 +39,7 @@
                    alt="CSS3" height="25"/>
             </a> 
             <a href="" target="blank">
-              <img src="https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+              <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
                    alt="JavaScript ES6+" height="25"/>
             </a>
   <img src="https://img.shields.io/badge/databases_and_querying:-000000?style=for-the-badge" alt="Database:" height="25"/> <a href="" target="blank">
