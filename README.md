@@ -27,3 +27,39 @@
 - I am [finding an alternative to Heroku](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq) to deploy [📕Google Books Search Engine](https://github.com/djbowen95/book-search-engine) and [🖊️ Note Taker](https://github.com/djbowen95/note-taker).
 - I am building a project using AWS/Amazon's S3, EC2 and DynamoDB (currently hidden until I set up a .env!)
 - Finally: I'm making a new portfolio from scratch in React!
+
+<h3>Technology Stack</h3>
+<div align="center"> <!-- Could also left align and do line breaks -->
+<img src="https://img.shields.io/badge/languages:-000000?style=for-the-badge" alt="Languages:" height="25"/> <a href="" target="blank">
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+                   alt="HTML5" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+                   alt="CSS3" height="25"/>
+            </a> 
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+                   alt="JavaScript ES6+" height="25"/>
+            </a>
+  <img src="https://img.shields.io/badge/databases_and_querying:-000000?style=for-the-badge" alt="Database:" height="25"/> <a href="" target="blank">
+              <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+                   alt="MySQL" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"
+                   alt="Sequelize" height="25"/>
+            </a> 
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+                   alt="MongoDB" height="25"/>
+            </a>  
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+                   alt="Mongoose" height="25"/>
+            </a> 
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+                   alt="GraphQL" height="25"/>
+            </a> 
+           </div>
