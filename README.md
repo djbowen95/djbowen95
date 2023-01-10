@@ -62,4 +62,21 @@
               <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"
                    alt="GraphQL" height="25"/>
             </a> 
+            <img src="https://img.shields.io/badge/frameworks_and_libraries:-000000?style=for-the-badge" alt="Database:" height="25"/> <a href="" target="blank">
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+                   alt="React" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
+                   alt="Bootstrap" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white"
+                   alt="Bulma" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/handlebars-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white"
+                   alt="Handlebars" height="25"/>
+            </a>
            </div>
