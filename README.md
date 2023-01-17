@@ -23,7 +23,6 @@
 <h3>Current Projects</h3> 
 
 - I am building [🌦️ Come Rain or Shine](https://github.com/djbowen95/come-rain-or-shine/) a brand new front-end, with more Advanced CSS.
-- I am refactoring [🔐 Signature Password Generator](https://github.com/djbowen95/signature-password-generator) for a more dynamic user experience.
-- I am [finding an alternative to Heroku](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq) to deploy [📕Google Books Search Engine](https://github.com/djbowen95/book-search-engine) and [🖊️ Note Taker](https://github.com/djbowen95/note-taker).
-- I am building a project using AWS/Amazon's S3, EC2 and DynamoDB (currently hidden until I set up a .env!)
+- I am building extra features and unit testing for my command-line application [📝Quick and READ ME](https://github.com/djbowen95/Quick-and-READ-ME).
+- I am looking to use AWS' S3, EC2 and DynamoDB to deploy projects that were on Heroku, notably: [🐀 Rat World](https://github.com/djbowen95/Rat-World), [🏋️Weight a Minute...!](https://github.com/djbowen95/Weight-a-Minute) and [📚Google Book Search Engine](https://github.com/djbowen95/GoogleBooks-Search-Engine).
 - Finally: I'm making a new portfolio from scratch in React!
