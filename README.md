@@ -13,16 +13,17 @@
 
 <h3>Bio</h3>           
 
-- 👋 Hi, I’m Dan / @djbowen95.
-- 👀 I am actively looking for a new role in Full-Stack Development.
-- 🌱 I am experienced in Javascript, React, Node.js, Express and more.
-- 💞️ I’m looking to collaborate on/contribute to open source projects in JavaScript, React, or any docs!
+- 👋 Hi, I’m Dan / @djbowen95!
+- 👀 I am actively looking for a junior role as a Full-Stack, Back-End or Software Developer, or as a QA Analyst.
+- 🌱 I am experienced in HTML, CSS, Javascript, Node.js, React, Express and more.
 - 🏙️ I live in Birmingham but happy to relocate within the United Kingdom.
-- 📌 Please take a look at my pinned projects for examples of my work.
+- 💞️ I’m looking to contribute to open source projects in JavaScript, React, or any docs!
+- ✋ I'd also really love to collaborate on little 2 week projects with another junior dev, so please send me a message if you fancy that!
+- 📌 Please take a look at my pinned projects for the best examples of my work.
 
 <h3>Current Projects</h3> 
 
-- I am building [🌦️ Come Rain or Shine](https://github.com/djbowen95/come-rain-or-shine/) a brand new front-end, with more Advanced CSS.
-- I am building extra features and unit testing for my command-line application [📝Quick and READ ME](https://github.com/djbowen95/Quick-and-READ-ME).
-- I am looking to use AWS' S3, EC2 and DynamoDB to deploy projects that were on Heroku, notably: [🐀 Rat World](https://github.com/djbowen95/Rat-World), [🏋️Weight a Minute...!](https://github.com/djbowen95/Weight-a-Minute) and [📚Google Book Search Engine](https://github.com/djbowen95/GoogleBooks-Search-Engine).
-- Finally: I'm making a new portfolio from scratch in React!
+- I'm about to start a refactor of my biggest collaborative projects: [🐀 Rat World](https://github.com/djbowen95/Rat-World) and [🏋️Weight a Minute...!](https://github.com/djbowen95/Weight-a-Minute), and redeploy them using AWS.
+- I'm building a command-line [❓Movie Title Guessing Game❓](https://github.com/djbowen95/GuessingGame), which I'm aiming to build following strict test-driven development (TDD); I'm going to document the way I break this project down in a separate gist/blog.
+- I'm building a few little silly front-end projects to sharpen up my HTML/CSS; the current one is a [complaints page for my cat 🐱](https://github.com/djbowen95/LandingPage).
+- Finally: I'm working on a new portfolio from scratch in React!
