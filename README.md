@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm Daniel Bowen  <i>(djbowen95)</i>.</h1>
+<h1 align="center"> 👋 Daniel Bowen: GitHub Profile  <i>(djbowen95)</i>.</h1>
 <h2 align="center"> Welcome to my GitHub profile.</h2>
 <div align="center">
            <a href="https://www.linkedin.com/in/daniel-bowen-6266ba191/" target="blank">
@@ -13,17 +13,87 @@
 
 <h3>Bio</h3>           
 
-- 👋 Hi, I’m Dan / @djbowen95!
-- 👀 I am actively looking for a junior role as a Full-Stack, Back-End or Software Developer, or as a QA Analyst.
-- 🌱 I am experienced in HTML, CSS, Javascript, Node.js, React, Express and more.
-- 🏙️ I live in Birmingham but happy to relocate within the United Kingdom.
-- 💞️ I’m looking to contribute to open source projects in JavaScript, React, or any docs!
-- ✋ I'd also really love to collaborate on little 2 week projects with another junior dev, so please send me a message if you fancy that!
-- 📌 Please take a look at my pinned projects for the best examples of my work.
+- 👋 Hi, I’m Dan / @djbowen95.
+- 👀 I am actively looking for a junior role in Software Development.
+- 🌱 I am experienced in Javascript, React, Node.js, Express and more.
+- 💞️ I’m looking to collaborate on/contribute to open source projects in JavaScript, React, or any docs!
+- 🏙️ I live in Birmingham but happy to relocate, or work remotely.
+- 📌 Please take a look at my pinned projects for examples of my work.
+
+
+<h3>Technology Stack</h3>
+<div id="stack">
+<img src="https://img.shields.io/badge/languages:-000000?style=for-the-badge" alt="Languages:" height="25"/>
+<a href="" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+                   alt="HTML5" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+                   alt="CSS3" height="25"/>
+            </a> 
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+                   alt="JavaScript ES6+" height="25"/>
+            </a> <br/>
+<img src="https://img.shields.io/badge/frontend:-000000?style=for-the-badge" alt="Languages:" height="25"/> <a href="" target="blank">
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+                   alt="React" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/handlebars-999999?style=for-the-badge&logo=handlebarsdotjs&logoColor=white"
+                   alt="Handlebars" height="25"/>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
+                   alt="Bootstrap" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white"
+                   alt="Bulma" height="25"/>
+            </a> <br/>
+  <img src="https://img.shields.io/badge/databases:-000000?style=for-the-badge" alt="Database:" height="25"/> <a href="" target="blank">
+              <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+                   alt="MySQL" height="25"/>
+            </a>
+           <a href="" target="blank">
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+                   alt="MongoDB" height="25"/>
+            </a>  
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"
+                   alt="Sequelize" height="25"/>
+            </a> 
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/Mongoose-999999?style=for-the-badge&logo=mongodb&logoColor=white"
+                   alt="Mongoose" height="25"/>
+            </a> 
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+                   alt="GraphQL" height="25"/>
+            </a> <br/>
+ <img src="https://img.shields.io/badge/backend:-000000?style=for-the-badge" alt="Database:" height="25"/> <a href="" target="blank">
+            </a>
+           <a href="" target="blank">
+              <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+                   alt="Node" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/expressjs-999999?style=for-the-badge&logo=express&logoColor=white"
+                   alt="Express" height="25"/>
+            </a>
+            <a href="" target="blank">
+              <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+                   alt="Jest" height="25"/>
+            </a> <br/>
+<img src="https://img.shields.io/badge/version_control:-000000?style=for-the-badge" alt="Database:" height="25"/> <a href="" target="blank">
+            </a>
+           <a href="" target="blank">
+              <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"
+                   alt="Git" height="25"/>
+            </a>
+</div>
 
 <h3>Current Projects</h3> 
-
-- I'm about to start a refactor of my biggest collaborative projects: [🐀 Rat World](https://github.com/djbowen95/Rat-World) and [🏋️Weight a Minute...!](https://github.com/djbowen95/Weight-a-Minute), and redeploy them using AWS.
-- I'm building a command-line [❓Movie Title Guessing Game❓](https://github.com/djbowen95/GuessingGame), which I'm aiming to build following strict test-driven development (TDD); I'm going to document the way I break this project down in a separate gist/blog.
-- I'm building a few little silly front-end projects to sharpen up my HTML/CSS; the current one is a [complaints page for my cat 🐱](https://github.com/djbowen95/LandingPage).
-- Finally: I'm working on a new portfolio from scratch in React!
+- I have been building a new front-end for [🌦️ Come Rain or Shine](https://github.com/djbowen95/come-rain-or-shine/), with responsive design/more advanced CSS.
+- I have been learning the basics of Amazon Web Services' EC2 and S3, looking to deploy [Weight a Minute](https://github.com/djbowen95/Weight-a-Minute) and [Rat World](https://github.com/djbowen95/Rat-World), since [they are no longer deployed to Heroku](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq).
+- I'm building a new portfolio from scratch, using advanced CSS and React!
