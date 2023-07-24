@@ -95,5 +95,5 @@
 <h3>Current Projects</h3> 
 
 - I have been building a new front-end for [🌦️ Come Rain or Shine](https://github.com/djbowen95/come-rain-or-shine/), with responsive design/more advanced CSS.
-- I have been learning the basics of Amazon Web Services' EC2 and S3, looking to deploy [Weight a Minute] and [Rat World], since [they are no longer deployed to Heroku](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq).
+- I have been learning the basics of Amazon Web Services' EC2 and S3, looking to deploy [Weight a Minute](https://github.com/djbowen95/Weight-a-Minute) and [Rat World](https://github.com/djbowen95/Rat-World), since [they are no longer deployed to Heroku](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq).
 - I'm building a new portfolio from scratch, using advanced CSS and React!
