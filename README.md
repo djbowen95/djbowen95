@@ -14,10 +14,10 @@
 <h3>Bio</h3>           
 
 - 👋 Hi, I’m Dan / @djbowen95.
-- 👀 I am actively looking for a junior role in Software Development.
-- 🌱 I am experienced in Javascript, React, Node.js, Express and more.
-- 💞️ I’m looking to collaborate on/contribute to open source projects in JavaScript, React, or any docs!
-- 🏙️ I live in Birmingham but happy to relocate, or work remotely.
+- 👀 I am actively looking right now for a new Software Engineer role.
+- 🌱 I am experienced in JavaScript, Node, React and more.
+- 🏙️ I live in Birmingham but happy to relocate within the United Kingdom, or work remotely.
+- 💞️ I’d be very happy to work on open source projects right now, so drop me a message!
 - 📌 Please take a look at my pinned projects for examples of my work.
 
 
@@ -94,7 +94,6 @@
 </div>
 
 <h3>Current Projects</h3> 
-
-- I have been building a new front-end for [🌦️ Come Rain or Shine](https://github.com/djbowen95/come-rain-or-shine/), with responsive design/more advanced CSS.
-- I have been learning the basics of Amazon Web Services' EC2 and S3, looking to deploy [🏋️ Weight a Minute](https://github.com/djbowen95/Weight-a-Minute) and [🐀 Rat World](https://github.com/djbowen95/Rat-World), since [they are no longer deployed to Heroku](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq).
-- I'm building a new portfolio from scratch, using advanced CSS and React!
+I haven't been as active on GitHub lately as I am prioritising sending CVs / Cover Letters. I'm itching to get back to coding though, which is what I really love to do, and hoping to work on these projects when I can:
+ - I've been looking to redeploy some existing projects on Amazon Web Services, namely: [🏋️ Weight a Minute](https://github.com/djbowen95/Weight-a-Minute) and [🐀 Rat World](https://github.com/djbowen95/Rat-World)
+  - I'm going over some notes on Sequelize and working on a little [travel planner API](https://github.com/djbowen95/Travel-Planner-API)
