@@ -17,7 +17,7 @@
 - 👀 I am actively looking right now for a new Software Engineer role.
 - 🌱 I am experienced in JavaScript, Node, React and more.
 - 🏙️ I live in Birmingham but happy to relocate within the United Kingdom, or work remotely.
-- 💞️ I’d be very happy to work on open source projects right now, so drop me a message!
+- 💞️ I’d be very happy to work on open source projects right now, drop me a message if you're looking for a contributor!
 - 📌 Please take a look at my pinned projects for examples of my work.
 
 
