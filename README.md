@@ -94,6 +94,7 @@
 </div>
 
 <h3>Current Projects</h3> 
-I haven't been as active on GitHub lately as I am prioritising sending CVs / Cover Letters. I'm itching to get back to coding though, which is what I really love to do, and hoping to work on these projects when I can:
+I haven't been as active on GitHub lately as I am prioritising sending CVs / Cover Letters. I'm itching to get back to coding though, which is what I really love to do, and hoping to work on these projects when I can:  
+
  - I've been looking to redeploy some existing projects on Amazon Web Services, namely: [🏋️ Weight a Minute](https://github.com/djbowen95/Weight-a-Minute) and [🐀 Rat World](https://github.com/djbowen95/Rat-World)
   - I'm going over some notes on Sequelize and working on a little [travel planner API](https://github.com/djbowen95/Travel-Planner-API)
